@@ -1,1 +1,0 @@
-# Highlight About Linux With Minte
