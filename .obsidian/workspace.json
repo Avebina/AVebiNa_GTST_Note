@@ -6,6 +6,7 @@
       {
         "id": "cca679e722d39ae8",
         "type": "tabs",
+        "dimension": 52.04236006051437,
         "children": [
           {
             "id": "a6f010d038852036",
@@ -81,6 +82,7 @@
       {
         "id": "217b2de4cb604bab",
         "type": "tabs",
+        "dimension": 47.95763993948563,
         "children": [
           {
             "id": "0fb545661f9447b2",
@@ -105,9 +107,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "793512dad692fe3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day7_HelloPy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +167,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day5_LinuxRUN.md",
+                "file": "Day7_HelloPy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day5_LinuxRUN.md",
+                "file": "Day7_HelloPy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day5_LinuxRUN.md"
+                "file": "Day7_HelloPy.md"
               }
             }
           }
@@ -236,12 +251,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5042ac76ae1a459",
+  "active": "793512dad692fe3f",
   "lastOpenFiles": [
+    "Day5_LinuxRUN.md",
+    "Day7_HelloPy.md",
+    "11.png",
     "22112.png",
     "Screenshot (5).png",
     "Day4_MoreLinux.md",
-    "Day5_LinuxRUN.md",
     "Day3_linuxUSER.md",
     "Day6_FinalLinux.md",
     "Day_1.md",
@@ -255,7 +272,6 @@
     "qw.png",
     "tt.png",
     "t1.png.~tmp",
-    "t1.png",
     "README.md"
   ]
 }
